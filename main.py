@@ -4,6 +4,7 @@ import torchvision.datasets as dsets
 import torchvision.transforms as transforms 
 from torch.autograd import Variable 
 
+
 # Hyper Parameters  
 input_size = 28*28 # image size 
 num_classes = 10 # number of digits
